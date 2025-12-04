@@ -1,6 +1,6 @@
 # 🍔 McDonald's Nutrition Analysis (EDA)
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Python](https://img.shields.io/badge/Python-3..13.0%2B-blue)
 ![Pandas](https://img.shields.io/badge/Library-Pandas-150458)
 ![Matplotlib](https://img.shields.io/badge/Library-Matplotlib-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
@@ -67,4 +67,5 @@ The analysis reveals a **very strong correlation (0.90)** between **Total Fat** 
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
+
    git clone git clone https://github.com/Mike-Nguyen602/mcdonalds-nutrition-eda.git
